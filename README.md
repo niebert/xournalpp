@@ -5,29 +5,25 @@
 
 <table border="0px" ><tr><td width = 600px>
 
-<img src="readme/main.png" width=550px% title="Xournal++ Screenshot on Linux"/>
+<img src="readme/main.png" width=250px% title="Xournal++ Screenshot on Linux"/>
 
 </td><td>
 
-## Shout out - Translators Needed!  
+## Download Xournal++  
 
-Recently we revisited the settings dialog to improve the feeling and usability.
-While doing that we also added better descriptions, for which we require
-new translations.
+### Windows
+* [xournalpp-1.0.18-windows.zip](https://github.com/xournalpp/xournalpp/releases/download/1.0.18/xournalpp-1.0.18-windows.zip)
 
-Partial translations, which need to be updated:
-- Czech
-- Polish
-- Chinese
+### Linux
+* [xournalpp-1.0.18-Debian-buster-x86_64.deb](https://github.com/xournalpp/xournalpp/releases/download/1.0.18/xournalpp-1.0.18-Debian-buster-x86_64.deb)
+* [xournalpp-1.0.18-Ubuntu-xenial-x86_64.deb](https://github.com/xournalpp/xournalpp/releases/download/1.0.18/xournalpp-1.0.18-Ubuntu-xenial-x86_64.deb)
 
-Full translations for all languages not mentioned previously **except**:
-- English
-- German
-- Italian
+### MacOSX
+Download Version and unzip Xournal++ and move the application into your application folder
+* [xournalpp-1.0.18-macos.zip](https://github.com/xournalpp/xournalpp/releases/download/1.0.18/xournalpp-1.0.18-macos.zip)
 
-If you would like to help us improve the localization of Xournal++ take a look at [our Crowdin project](https://crowdin.com/project/xournalpp). If you are interested in translating a new language, contact us on [Gitter](https://gitter.im/xournalpp/xournalpp) or create a new issue and we will unlock the language on Crowdin.
-
-**Thanks in advance!**
+### Source Code 
+* [xournalpp-1.0.18 Source Code](https://github.com/xournalpp/xournalpp/archive/1.0.18.zip)
 
 </td></tr></table>
 
