@@ -3,7 +3,7 @@
 [![Build Status](https://dev.azure.com/xournalpp/xournalpp/_apis/build/status/CI?branchName=master)](https://dev.azure.com/xournalpp/xournalpp/_build/latest?definitionId=1&branchName=master)
 [![Join the chat at https://gitter.im/xournalpp/xournalpp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xournalpp/xournalpp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<table border="0px" ><tr><td width = 600px>
+<table border="0px" ><tr><td width = 280px>
 
 <img src="readme/main.png" width=250px% title="Xournal++ Screenshot on Linux"/>
 
