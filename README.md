@@ -10,6 +10,7 @@
 </td><td>
 
 ## Download Xournal++  
+The following packages are downloading from [source repository of Xournal++](https://github.com/xournalpp/xournalpp/releases)
 
 ### Windows
 * [xournalpp-1.0.18-windows.zip](https://github.com/xournalpp/xournalpp/releases/download/1.0.18/xournalpp-1.0.18-windows.zip)
